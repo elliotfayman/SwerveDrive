@@ -1,4 +1,7 @@
+
+//yellow
 const int encoder_pin1 = 2;
+//green
 const int encoder_pin2 = 3;
 volatile int count = 0;
 float position = 0.0;
